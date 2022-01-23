@@ -3,7 +3,9 @@ import './App.css'
 const App = () => {
     return (
         <>
-            Google Clone App!
+            <h1 className="text-3xl font-bold underline">
+                Google Clone App!
+            </h1>
         </>
     )
 }
